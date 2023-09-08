@@ -13,7 +13,7 @@ FBrute es una herramienta de fuerza bruta para atacar cuentas de Facebook. Utili
 
 ## Instalación
 ```
-git clone https://github.com/yourusername/FBrute.git
+git clone https://github.com/afsh4ck/FBrute.git
 cd FBrute
 pip3 install -r requirements.txt
 python3 fbrute.py
