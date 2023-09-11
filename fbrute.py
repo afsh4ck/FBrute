@@ -60,7 +60,7 @@ def cover():
 
 cover()
 
-email = str(input(WW + " Introduzca el email del objetivo\033[33;1m: "))
+email = str(input(WW + "Introduzca el email del objetivo\033[33;1m: "))
 
 passwordlist = str(input(WW + "Ingrese el archivo de Contraseñas\033[95m [ pass.txt ] \033[92;1m: "))
 
@@ -148,9 +148,9 @@ def welcome():
     total = open(passwordlist, "r")
     total = total.readlines()
     print(" ")
-    print(GL + " [*] Cuenta a Crackear : {}".format(email))
-    print(RR + " [*] Cantidad :", len(total), WW + "passwords")
-    print(Y + " [*] Crackeando, por favor, espera...\n")
+    print(GL + "[*] Cuenta a Crackear : {}".format(email))
+    print(RR + "[*] Cantidad :", len(total), WW + "passwords")
+    print(Y + "[*] Crackeando, por favor, espera...\n")
 
 if __name__ == '__main__':
     main()
