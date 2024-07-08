@@ -24,7 +24,7 @@ Ejecuta el script y sigue las instrucciones para ingresar el correo electrónico
 La herramienta comenzará a probar contraseñas automáticamente.
 Puedes interrumpir el proceso en cualquier momento con Ctrl+C. Se te preguntará si deseas salir.
 
-## Notas
+## Notas
 Es necesario tener el archivo pass.txt dentro de la carpeta del script.
 Puedes editar el archivo de contraseñas (pass.txt) para utilizar tu propia lista de contraseñas.
 Asegúrate de usar esta herramienta de manera ética y legal. El mal uso de esta herramienta puede tener consecuencias legales.
