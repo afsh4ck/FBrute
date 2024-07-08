@@ -29,7 +29,7 @@ Es necesario tener el archivo pass.txt dentro de la carpeta del script.
 Puedes editar el archivo de contraseñas (pass.txt) para utilizar tu propia lista de contraseñas.
 Asegúrate de usar esta herramienta de manera ética y legal. El mal uso de esta herramienta puede tener consecuencias legales.
 
-## Créditos
+## Autor
 - Autor:       afsh4ck
 - Instagram:   <a href="https://www.instagram.com/afsh4ck">afsh4ck</a>
 - Youtube:     <a href="https://youtube.com/@afsh4ck">afsh4ck</a>
