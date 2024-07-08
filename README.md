@@ -30,11 +30,9 @@ Puedes editar el archivo de contraseñas (pass.txt) para utilizar tu propia list
 Asegúrate de usar esta herramienta de manera ética y legal. El mal uso de esta herramienta puede tener consecuencias legales.
 
 ## Créditos
-```
-Autor:       afsh4ck
-Instagram:   <a href="https://www.instagram.com/afsh4ck/">afsh4ck</a>
-Youtube:     <a href="https://youtube.com/@afsh4ck)">afsh4ck</a>
-```
+- Autor:       afsh4ck
+- Instagram:   <a href="https://www.instagram.com/afsh4ck/">afsh4ck</a>
+- Youtube:     <a href="https://youtube.com/@afsh4ck)">afsh4ck</a>
 
 ## Support
 
